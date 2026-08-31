@@ -1,4 +1,4 @@
-# Gold_ETF_Analysis
+# Gold_ETF_Analysis OLD
 
 In this project, I analyzed the relationship between Gold ETFs, actual gold prices, and the Sensex Index to understand how different financial assets interact over time.
 
